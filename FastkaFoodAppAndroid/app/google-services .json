@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862311646803",
+    "firebase_url": "https://fastkafoodappandroid-default-rtdb.firebaseio.com",
+    "project_id": "fastkafoodappandroid",
+    "storage_bucket": "fastkafoodappandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862311646803:android:efeafe5192af9f22a2a8a6",
+        "android_client_info": {
+          "package_name": "com.example.fastkafoodappandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862311646803-j9hghhod9tmk79p33dlgs2e2b6cocvdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkrCe3y6ZlmZVxpt6TqIg5ZmQlZflGgAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862311646803-j9hghhod9tmk79p33dlgs2e2b6cocvdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

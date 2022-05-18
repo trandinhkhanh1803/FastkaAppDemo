@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FastkaFoodAppAndroid</string>
+
+    <string name="login_register_button">Do not have an account? <b>Register now</b></string>
+    <string name="signup_register_button">Do you have an account? <b>Login now</b></string>
+    <string name="signup_forgot_button">Have you updated your password? <b>Login now</b></string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fastka Food</string>
+    <string name="nav_header_subtitle">Welcome to</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="home">Home</string>
+    <string name="my_account">My Account</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_rewards">My Rewards</string>
+    <string name="my_orders">My orders</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="favourite_zone">Favourite</string>
+    <string name="logout">Logout</string>
+    <string name="textview">TextView</string>
+    <string name="_84">84-</string>
+    <string name="get_otp">Get Otp</string>
+    <string name="otp_verification">Otp Verification</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+</resources>
